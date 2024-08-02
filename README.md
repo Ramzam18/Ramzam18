@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ramzam18
 - 👀 I’m interested in ... Computer science 
-- 🌱 I’m currently learning ... JavaScript 
-- 💞️ I’m looking to collaborate on ... Anything I just want to learn I am very hands on this is the kind of learning that helps me the most.
+- 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... Just send me a message.
 
 <!---
